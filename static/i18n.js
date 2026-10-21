@@ -338,6 +338,8 @@ AI 提炼主题与精简主体（独立请求） | AI: summarizing the topic (st
 画中画2 · 建议删除 | Overlay 2 · Suggested deletion
 主轨道 · 黑色 | Main track · Black base
 秒 | seconds
+例如 D:\JianyingPro Drafts\我的精剪草稿 | Example: D:\JianyingPro Drafts\My reviewed draft
+例如 D:\精剪工程\精剪序列.xml | Example: D:\Edited projects\Sequence.xml
 准备说话人模型 | Preparing speaker models
 加载说话人分离模型 | Loading diarization models
 声纹提取与分组 | Extracting and grouping voices
