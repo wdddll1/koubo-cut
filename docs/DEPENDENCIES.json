@@ -1,0 +1,225 @@
+[
+  {
+    "name": "altgraph",
+    "version": "0.17.5",
+    "homepage": "https://altgraph.readthedocs.io",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/altgraph-0.17.5/LICENSE"
+    ]
+  },
+  {
+    "name": "anyio",
+    "version": "4.15.1",
+    "homepage": "",
+    "license_expression": "MIT",
+    "license_files": [
+      "docs/licenses/anyio-4.15.1/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "certifi",
+    "version": "2026.7.22",
+    "homepage": "https://github.com/certifi/python-certifi",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/certifi-2026.7.22/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "comtypes",
+    "version": "1.4.17",
+    "homepage": "",
+    "license_expression": "MIT",
+    "license_files": [
+      "docs/licenses/comtypes-1.4.17/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "homepage": "https://github.com/python-hyper/h11",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/h11-0.16.0/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9",
+    "homepage": "",
+    "license_expression": "BSD-3-Clause",
+    "license_files": [
+      "docs/licenses/httpcore-1.0.9/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1",
+    "homepage": "",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/httpx-0.28.1/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "homepage": "",
+    "license_expression": "BSD-3-Clause",
+    "license_files": [
+      "docs/licenses/idna-3.20/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "ImageIO",
+    "version": "2.38.1",
+    "homepage": "",
+    "license_expression": "BSD-2-Clause",
+    "license_files": [
+      "docs/licenses/ImageIO-2.38.1/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "imageio-ffmpeg",
+    "version": "0.6.0",
+    "homepage": "https://github.com/imageio/imageio-ffmpeg",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/imageio-ffmpeg-0.6.0/LICENSE"
+    ]
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.4",
+    "homepage": "",
+    "license_expression": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+    "license_files": [
+      "docs/licenses/numpy-2.5.4/licenses/LICENSE.txt",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/ma/LICENSE",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/random/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/random/src/distributions/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/random/src/philox/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/_core/src/highway/LICENSE",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "docs/licenses/numpy-2.5.4/licenses/numpy/_core/src/umath/svml/LICENSE"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "homepage": "",
+    "license_expression": "Apache-2.0 OR BSD-2-Clause",
+    "license_files": [
+      "docs/licenses/packaging-26.3/licenses/LICENSE",
+      "docs/licenses/packaging-26.3/licenses/LICENSE.APACHE",
+      "docs/licenses/packaging-26.3/licenses/LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "pefile",
+    "version": "2024.8.26",
+    "homepage": "https://github.com/erocarrera/pefile",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/pefile-2024.8.26/LICENSE"
+    ]
+  },
+  {
+    "name": "pillow",
+    "version": "12.3.0",
+    "homepage": "",
+    "license_expression": "MIT-CMU",
+    "license_files": [
+      "docs/licenses/pillow-12.3.0/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.22.3",
+    "homepage": "",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/pyinstaller-6.22.3/licenses/COPYING.txt"
+    ]
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.8",
+    "homepage": "https://github.com/pyinstaller/pyinstaller-hooks-contrib",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/pyinstaller-hooks-contrib-2026.8/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pyjianyingdraft",
+    "version": "0.3.1",
+    "homepage": "https://github.com/GuanYixuan/pyJianYingDraft",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/pyjianyingdraft-0.3.1/LICENSE"
+    ]
+  },
+  {
+    "name": "pymediainfo",
+    "version": "7.0.1",
+    "homepage": "",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/pymediainfo-7.0.1/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pywin32-ctypes",
+    "version": "0.2.3",
+    "homepage": "https://github.com/enthought/pywin32-ctypes",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/pywin32-ctypes-0.2.3/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "sherpa_onnx",
+    "version": "1.13.8",
+    "homepage": "https://github.com/k2-fsa/sherpa-onnx",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/sherpa_onnx-1.13.8/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "sherpa-onnx-core",
+    "version": "1.13.8",
+    "homepage": "https://github.com/k2-fsa/sherpa-onnx",
+    "license_expression": "",
+    "license_files": []
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "homepage": "",
+    "license_expression": "PSF-2.0",
+    "license_files": [
+      "docs/licenses/typing_extensions-4.16.0/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "uiautomation",
+    "version": "2.0.29",
+    "homepage": "https://github.com/yinkaisheng/Python-UIAutomation-for-Windows",
+    "license_expression": "",
+    "license_files": [
+      "docs/licenses/uiautomation-2.0.29/LICENSE"
+    ]
+  }
+]
